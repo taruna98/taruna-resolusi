@@ -1,5 +1,6 @@
 Rencana Belajar
 - Belajar Laravel
   # Bikin Project sederhana
+    ^ Buat project CRUD
 - Belajar Github
-- Belajar SweetAlerts
+
