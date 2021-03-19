@@ -1,5 +1,8 @@
 Rencana Belajar
 - Belajar Laravel
   # Bikin Project sederhana
+    ^ Pahami routes dan migration
+    ^ Pahami MVC
 - Belajar Github
 - Belajar SweetAlerts
+- Belajar UI Design
