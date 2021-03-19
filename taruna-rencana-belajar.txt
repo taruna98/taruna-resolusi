@@ -2,3 +2,4 @@ Rencana Belajar
 - Belajar Laravel
   # Bikin Project sederhana
 - Belajar Github
+- Belajar SweetAlerts
